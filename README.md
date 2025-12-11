@@ -3,18 +3,18 @@ The workflow in this notebook includes:
 
 Loading and cleaning the dataset:
 
-Label encoding of diagnosis values
-Removing unnecessary columns
-Applying Min-Max scaling
-Splitting data into training and testing sets
-Performing KMeans clustering
-Training a K-Nearest Neighbors (KNN) classifier
-Evaluating the model predictions
+Label encoding of diagnosis values,
+Removing unnecessary columns,
+Applying Min-Max scaling,
+Splitting data into training and testing sets,
+Performing KMeans clustering,
+Training a K-Nearest Neighbors (KNN) classifier,
+Evaluating the model predictions,
 
 Used Python for this project:
 
-Python programming language
-Pandas (data loading & cleaning)
-NumPy (numerical operations)
-Matplotlib (visualization)
-Scikit-learn (LabelEncoder, MinMaxScaler, KMeans, KNN, train-test split)
+Python programming language,
+Pandas (data loading & cleaning),
+NumPy (numerical operations),
+Matplotlib (visualization),
+Scikit-learn (LabelEncoder, MinMaxScaler, KMeans, KNN, train-test split).
